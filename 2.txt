@@ -1,3 +1,5 @@
 this is 2.txt for test git.
 author:guiyang.
-add:modify this file
+add:one time modify this file.
+add:two time modify this file.
+
